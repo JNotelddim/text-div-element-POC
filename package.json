@@ -1,0 +1,12 @@
+{
+  "name": "@jnotelddim/aurelia-text-div-element",
+  "version": "0.0.2",
+  "main": "text-div-element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "An Aurelia custom element which can be included for use in other Aurelia applications. It just instantiates a configurable text-div. This is just an experiment, not really intended for reuse."
+}
